@@ -1,0 +1,37 @@
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\bin\Debug\speech.exe.config
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\bin\Debug\speech.exe
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\bin\Debug\speech.pdb
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.csprojResolveAssemblyReference.cache
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.ResolveComReference.cache
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.Form1.resources
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.Properties.Resources.resources
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.GenerateResource.Cache
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.exe
+C:\Users\Jameel_ALredhi\documents\visual studio 2017\Projects\speech\speech\obj\Debug\speech.pdb
+E:\Visual Studio 2017\Projects\speech\speech\bin\Debug\speech.exe.config
+E:\Visual Studio 2017\Projects\speech\speech\bin\Debug\speech.exe
+E:\Visual Studio 2017\Projects\speech\speech\bin\Debug\speech.pdb
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.AssemblyReference.cache
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\Interop.SpeechLib.dll
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.ResolveComReference.cache
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.Form1.resources
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.Properties.Resources.resources
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.GenerateResource.cache
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.exe
+E:\Visual Studio 2017\Projects\speech\speech\obj\Debug\speech.pdb
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\bin\Debug\speech.exe.config
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\bin\Debug\speech.exe
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\bin\Debug\speech.pdb
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.csproj.AssemblyReference.cache
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.csproj.ResolveComReference.cache
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.Form1.resources
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.Properties.Resources.resources
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.csproj.GenerateResource.cache
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.csproj.CoreCompileInputs.cache
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.exe
+C:\Users\Alradhi\source\repos\Convert_text_to_sound\speech\obj\Debug\speech.pdb
